@@ -1,6 +1,3 @@
-# Spring MVC CRUD App (springmvc-crud-app)
-Spring MVC CRUD Application with MySQL and Hibernate
-
 # Spring MVC CRUD Application with MySQL and Hibernate
 Best Of Hello World: [Spring MVC CRUD App]
 
