@@ -40,4 +40,4 @@ mvn clean install
 You will require a Tomcat or JBOSS some web server to run this web application. Run with any web server and view the output on a browser.
 
 
-[Spring MVC CRUD App]: <https://panditmandar.blog/2018/12/15/spring-boot-data-jpa-rest-api/>
+[Spring MVC CRUD App]: <https://panditmandar.blog/2019/04/15/spring-mvc-crud-app/>
